@@ -1,4 +1,41 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643516053/20780/door_greet.gif?1643516053" width="50"/> Namaste!</h1>
+
+<p>Welcome to my page! </br> I'm Rushikesh from <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="13"/> <b>Pune, India</b>(based out of Bengaluru). </p>
+<h3>My tools</h3>
+<br>
+<br>
+<h4>Proficient in</h4>
+<p>
+<img alt="React-Native" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript"/>
+
+  <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-000?style=flat-square&logo=circleci"/>
+  <img alt="Fastlane" src="https://img.shields.io/badge/-Fastlane-000?style=flat-square&logo=fastlane"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-000?style=flat-square&logo=firebase&logoColor=ffcb2b"/>
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-fe452a?style=flat-square&logo=swift&logoColor=black"/>
+</p>
+<br>
+<br>
+<h4>Exposd to</h4>
+<p>
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs"/>
+  <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring--Boot-000?style=flat-square&logo=springboot"/>
+</p>
+<br>
+<br>
+<h4>Currently learning</h4>
+<p>
+  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-632E7E?style=flat-square&logo=elixir&logoColor=AF2A7F" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.JS-000?style=flat-square&logo=next.js"/>
+  <img alt="Phoenix Framework" src="https://img.shields.io/badge/-Phoenix%20Framework-000?style=flat-square&logo=phoenixframework"/>
+</p>
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/rushikeshpandit" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/rushikesh-pandit-646834100/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="http://rushikeshpandit.in" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=aboutdotme" /></a>
+</p>
 
 <!--
 **rushikeshpandit/rushikeshpandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
