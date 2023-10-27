@@ -2,8 +2,6 @@
 
 <p>Welcome to my page! </br> I'm Rushikesh from <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="13"/> <b>Pune, India</b>(based out of Bengaluru). </p>
 <h3>My tools</h3>
-<br>
-<br>
 <h4>Proficient in</h4>
 <p>
 <img alt="React-Native" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -14,8 +12,6 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-000?style=flat-square&logo=firebase&logoColor=ffcb2b"/>
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-fe452a?style=flat-square&logo=swift&logoColor=black"/>
 </p>
-<br>
-<br>
 <h4>Exposd to</h4>
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -24,8 +20,6 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs"/>
   <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring--Boot-000?style=flat-square&logo=springboot"/>
 </p>
-<br>
-<br>
 <h4>Currently learning</h4>
 <p>
   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-632E7E?style=flat-square&logo=elixir&logoColor=AF2A7F" />
