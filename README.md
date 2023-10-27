@@ -4,27 +4,25 @@
 <h3>My tools</h3>
 <h4>Proficient in</h4>
 <p>
-<img alt="React-Native" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript"/>
-
+  <img alt="React-Native" src="https://img.shields.io/badge/-React-000?style=flat-square&logo=react" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript"/>
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-000?style=flat-square&logo=swift"/>
   <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-000?style=flat-square&logo=circleci"/>
   <img alt="Fastlane" src="https://img.shields.io/badge/-Fastlane-000?style=flat-square&logo=fastlane"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-000?style=flat-square&logo=firebase&logoColor=ffcb2b"/>
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-fe452a?style=flat-square&logo=swift&logoColor=black"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-000?style=flat-square&logo=firebase"/>
 </p>
 <h4>Exposd to</h4>
 <p>
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs"/>
   <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring--Boot-000?style=flat-square&logo=springboot"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker" />
 </p>
 <h4>Currently learning</h4>
 <p>
-  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-632E7E?style=flat-square&logo=elixir&logoColor=AF2A7F" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.JS-000?style=flat-square&logo=next.js"/>
   <img alt="Phoenix Framework" src="https://img.shields.io/badge/-Phoenix%20Framework-000?style=flat-square&logo=phoenixframework"/>
+  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-000?style=flat-square&logo=elixir&logoColor=AF2A7F" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.JS-000?style=flat-square&logo=next.js"/>
 </p>
 
 <h3>Where to find me</h3>
