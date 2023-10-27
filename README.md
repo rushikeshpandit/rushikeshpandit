@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643516053/20780/door_greet.gif?1643516053" width="50"/> Namaste!</h1>
 
-<p>Welcome to my page! </br> I'm Rushikesh from <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="13"/> <b>Pune, India</b>(based out of Bengaluru). </p>
-<h3>My tools</h3>
+<p>I'm Rushikesh from <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="13"/> <b>Pune, India</b>(based out of Bengaluru). </p>
 <h4>Proficient in</h4>
 <p>
   <img alt="React-Native" src="https://img.shields.io/badge/-React-000?style=flat-square&logo=react" />
