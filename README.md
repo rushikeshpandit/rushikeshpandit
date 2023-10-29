@@ -25,7 +25,7 @@
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/rushikeshpandit" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/rushikesh-pandit-646834100/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="http://rushikeshpandit.in" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=aboutdotme" /></a>
+<p><a href="https://github.com/rushikeshpandit" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/rushikesh-pandit-646834100/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin" /></a> <a href="http://rushikeshpandit.in" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=aboutdotme" /></a>
 </p>
 
 <!--
