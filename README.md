@@ -16,12 +16,12 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs"/>
   <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring--Boot-000?style=flat-square&logo=springboot"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.JS-000?style=flat-square&logo=next.js"/>
 </p>
 <h4>Currently learning</h4>
 <p>
   <img alt="Phoenix Framework" src="https://img.shields.io/badge/-Phoenix%20Framework-000?style=flat-square&logo=phoenixframework"/>
   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-000?style=flat-square&logo=elixir&logoColor=AF2A7F" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.JS-000?style=flat-square&logo=next.js"/>
 </p>
 
 <h3>Where to find me</h3>
