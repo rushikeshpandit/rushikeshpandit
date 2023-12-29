@@ -3,7 +3,7 @@
 <p>I'm Rushikesh from <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="13"/> <b>Pune, India</b>(based out of Bengaluru). </p>
 <p>
   <div>
-  <a href="https://github.com/theguuholi">
+  <a href="https://github.com/rushikeshpandit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikeshpandit&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpandit&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
