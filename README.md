@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpandit&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 </p>
-    <p>
+  
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=rushikeshpandit&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
@@ -19,7 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpandit&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
       
-    </p>
 <h4>Proficient in</h4>
 <p>
   <img alt="React-Native" src="https://img.shields.io/badge/-React-000?style=flat-square&logo=react" />
