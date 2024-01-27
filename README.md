@@ -22,7 +22,6 @@
 </details>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   ![gitartwork](gitartwork.svg)
 </div>
 
