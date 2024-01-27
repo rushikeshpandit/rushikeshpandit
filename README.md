@@ -21,9 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpandit&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 
-<div align="center">
+
   ![gitartwork](gitartwork.svg)
-</div>
+
 
       
 <h4>Proficient in</h4>
