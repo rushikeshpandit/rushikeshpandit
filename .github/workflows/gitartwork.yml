@@ -14,5 +14,5 @@ jobs:
           # Use this username's contribution graph
           user_name: rushikeshpandit
           # Text on contribution graph
-          text: RUSHIKESH
+          text: R. P.
       - uses: jasineri/simple-push-action@v1
