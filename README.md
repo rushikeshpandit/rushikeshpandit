@@ -18,6 +18,15 @@
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpandit&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rushikeshpandit/rushikeshpandit/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
       
 <h4>Proficient in</h4>
 <p>
