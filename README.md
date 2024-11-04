@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rushikeshpandit/rushikeshpandit" />
-
 <h1>Namaste!</h1>
 
 <p>I'm Rushikesh from <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="13"/> <b>Pune, India</b>(based out of Bengaluru). </p>
@@ -20,10 +18,6 @@
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpandit&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
-
-
-  ![gitartwork](gitartwork.svg)
-
 
       
 <h4>Proficient in</h4>
