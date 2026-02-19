@@ -3,7 +3,7 @@
 <p>I'm Rushikesh from <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="13"/> <b>Pune, India</b>. </p>
 
 <div align="center">
-      [![GitHub followers](https://img.shields.io/github/followers/rushikeshpandit?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/rushikeshpandit?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/rushikeshpandit?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/rushikeshpandit?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=rushikeshpandit&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
 </div>
 
